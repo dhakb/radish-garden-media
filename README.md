@@ -1,17 +1,14 @@
-# Radish Garden Media Corp. [Link](https://radish-garden-app.netlify.app/)
+# Radish Garden Media Corp. [Link](https://client-zk8et.ondigitalocean.app/)
 
-##### _note!_  _This repo doesn't contain source code._ Following links will get you to the source code.
+##### _note!_  _This repo doesn't contain source code._ Directories are added as submodules that hold references of main repo. 
 
-* [radish-garden-client](https://github.com/giga-mania/radish-garden-client)
-* [radish-garden-api](https://github.com/giga-mania/radish_garden_api)
 
 ### About 
 
 **Radish Garden** is my full-stack project which is a social media platform for plants across the globe. :earth_asia: :seedling:
 By the way plants have better network _(WoodWideWeb)_ but anyways I gave it a try. **Plants are awesome.** They deserve social media on the internet.  
-
-![](https://i.ibb.co/m9MN85y/radish-garden.png)
-[visit](https://radish-garden-app.netlify.app/)  **Radish Garden**, explore and make plant friends. 
+![](./radish-garden.png)
+[visit](https://client-zk8et.ondigitalocean.app/)  **Radish Garden**, explore and make plant friends. 
 
 _some keys to navigate easily_
 * After creating new account, login with email and password.
@@ -48,10 +45,10 @@ _some keys to navigate easily_
 
 ###### Client Side
 * React 
-* React Router
+* React Router @6
 * Material UI
     * Material UI/core
-    * Materila UI/icons
+    * Material UI/icons
 * CSS
 
 ###### Server Side
@@ -59,15 +56,16 @@ _some keys to navigate easily_
   * express.js
 * MongoDB 
   * Mongoose
-  * GridFS Prometheus
-* Helmet
-* Morgan
+  * GridFSBucket
 * Multer
   * multer-gridfs-storage
 * Bcrypt
-* WebSocket
-  * socket.io
+* Socket.io
 
+
+###### Hosting service
+ * Digital Ocean
+   * App Platform 
   
 ## Challenges
 

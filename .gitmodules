@@ -1,0 +1,9 @@
+[submodule "radish-garden-client"]
+	path = radish-garden-client
+	url = https://github.com/giga-mania/radish-garden-client.git
+[submodule "radish-garden-socket-server"]
+	path = radish-garden-socket-server
+	url = https://github.com/giga-mania/radish-garden-socket-server.git
+[submodule "radish-garden-api"]
+	path = radish-garden-api
+	url = https://github.com/giga-mania/radish-garden-api.git
