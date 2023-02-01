@@ -4,6 +4,9 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/api" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/radish-garden-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/radish-garden-client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/radish-garden-socket-server" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/socket" vcs="Git" />
   </component>
 </project>
