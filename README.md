@@ -1,6 +1,6 @@
 # Radish Garden Media Corp. [Link](https://client-zk8et.ondigitalocean.app/)
 
-##### _note!_  _This repo doesn't contain source code._ Directories are added as submodules that hold references of main repo. 
+#####  Repository directories are added as submodules that hold references of source code. 
 
 
 ### About 
@@ -11,25 +11,28 @@ By the way plants have better network _(WoodWideWeb)_ but anyways I gave it a tr
 [visit](https://client-zk8et.ondigitalocean.app/)  **Radish Garden**, explore and make plant friends. 
 
 _some keys to navigate easily_
-* After creating new account, login with email and password.
-* For profile settings right click on user's white box _(top-right corner on navigation bar)_
-* For instant messaging create another account and authenticate in different browser (or private window)
-* or create one your own account and as a second use already existing account 
-    * email: karalioki@karalioki
-    * password: karalioki
+* Create new account
+* Or log in with already exiting account which will make it easy to navigate
+```
+  Email:     lemon@lemon
+  Password:  lemonLemon0808
+```
+
+
 
 ## Features and stack 
 
 ### Features
 
-* Create an account with unique usernames (email & password)
-* Authenticate with created/(existing) account
-* Search for all user by usernames
+* Unique username creation (email & password)
+* Server side authentication
+* Searching all users by username
 * Users activity monitoring
 * User session recording (online users)
 * follow/unfollow users
 * add/edit/delete posts
 * like/unlike posts
+* add/delete/update comments/nested comments
 * create conversations
 * send/unsend messages
 
@@ -69,8 +72,8 @@ _some keys to navigate easily_
   
 ## Challenges
 
-There is no doubt that I've learned a lot while building and experimenting with this project. Although, some of the features I initially intended to implement
-are not yet implemented I encountered lots of code-structuring and designing related challenges which made me to look at the whole developing process in a completely different way.
+There is no doubt that I've learned a lot while building and experimenting with this project. Although, some features I initially intended to implement
+are not yet implemented I encountered lots of code-structuring and designing related challenges which made me to look at the whole developing process in a different way.
 As far as the app is far from ideal solution and some of required functionalities still are in the line to be implemented, surely I'm going to learn more.
 
 
@@ -132,7 +135,7 @@ I tried to structure the data so that it is saved and retrieved as easily as pos
 
 ####  Bidirectional communication 
 
-Providing a low-overhead instant communication channel between the server and the client is what I've never before implemented in the app. 
+Providing a low-overhead instant communication channel between the server and the client are what I've never before implemented in the app. 
 My main goal was keeping track of user session recordings and also receiving and sending instant messages in the chat-box without reloading the page.
 
 
