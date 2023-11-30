@@ -1,4 +1,4 @@
-# Radish Garden Media Corp. [Link](https://client-zk8et.ondigitalocean.app/)
+# Radish Garden Media
 
 #####  Repository directories are added as submodules that hold references of source code. 
 
@@ -8,7 +8,7 @@
 **Radish Garden** is my full-stack project which is a social media platform for plants across the globe. :earth_asia: :seedling:
 By the way plants have better network _(WoodWideWeb)_ but anyways I gave it a try. **Plants are awesome.** They deserve social media on the internet.  
 ![](./radish-garden.png)
-[visit](https://client-zk8et.ondigitalocean.app/)  **Radish Garden**, explore and make plant friends. 
+**Radish Garden**, explore and make plant friends. 
 
 _some keys to navigate easily_
 * Create new account
